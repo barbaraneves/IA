@@ -1,2 +1,5 @@
-# IA
-Trabalhos feitos para a disciplina de Inteligência Artificial, semestre 2018.2, Universidade Federal do Ceará - Campus Quixadá.
+# Repositório que contém as atividades da disciplina de Inteligência Artificial
+
+- Atividade 1: Agentes de Resolução de Problemas. 
+
+- Atividade 2: Agentes Inteligentes.
