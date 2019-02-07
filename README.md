@@ -1,5 +1,11 @@
-# Repositório que contém as atividades da disciplina de Inteligência Artificial
+# Inteligência Artificial
 
-- Atividade 1: Agentes de Resolução de Problemas. 
+Repositório que contém as atividades da disciplina de Inteligência Artificial.
 
-- Atividade 2: Agentes Inteligentes.
+### Atividade 1
+
+Agentes de Resolução de Problemas. 
+
+### Atividade 2
+
+Agentes Inteligentes.
